@@ -1,83 +1,83 @@
 {
   "vite/modulepreload-polyfill": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "src/index.css": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react/index.js?commonjs-module": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react/cjs/react.production.min.js?commonjs-exports": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react/cjs/react.production.min.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react/index.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react-dom/client.js?commonjs-exports": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react-dom/index.js?commonjs-module": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/scheduler/index.js?commonjs-module": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/scheduler/cjs/scheduler.production.min.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/scheduler/index.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react-dom/cjs/react-dom.production.min.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react-dom/index.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "src/assets/react.svg": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "src/App.css": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react/jsx-runtime.js?commonjs-module": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000/home/kcurtet/code/vite-project/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react/cjs/react-jsx-runtime.production.min.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "node_modules/react/jsx-runtime.js": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "\u0000react/jsx-runtime": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "src/App.tsx": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "src/entry-client.tsx": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ],
   "index.html": [
-    "/assets/react.35ef61ed.svg"
+    "/vite-project/assets/react.35ef61ed.svg"
   ]
 }
